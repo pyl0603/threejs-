@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"css.967bad95.css","sourceRoot":"..\\src","sourcesContent":["body{\r\n    margin: 0;\r\n    padding: 0;\r\n    background-color: skyblue;\r\n    height: 100vh;\r\n    overflow: hidden;\r\n    position: relative;\r\n}\r\n"]}
